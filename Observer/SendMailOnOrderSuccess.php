@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * Copyright © 2020 Betzal. All Rights Reserved..
+ * Author: Jawahar Jeyaraman (jeyaraman.jawahar@gmail.com)
+ */
 namespace Worldpay\Payments\Observer;
 
 use Magento\Framework\Event\ObserverInterface;
